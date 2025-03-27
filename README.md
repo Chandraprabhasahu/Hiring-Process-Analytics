@@ -50,5 +50,5 @@ Your Task: Use a chart or graph to represent the different position tiers within
 
 ## Dataset 
 
-To access the Hiring Processs Analytics Dataset [Click Here](https://docs.google.com/spreadsheets/d/14PXFyGpZKCq3MxLOpI0NATXgbCqiUXMb/edit?usp=sharing&ouid=109009397325426290832&rtpof=true&sd=true)
+To access the Hiring Process Analytics Dataset [Click Here](https://docs.google.com/spreadsheets/d/14PXFyGpZKCq3MxLOpI0NATXgbCqiUXMb/edit?usp=sharing&ouid=109009397325426290832&rtpof=true&sd=true)
 
